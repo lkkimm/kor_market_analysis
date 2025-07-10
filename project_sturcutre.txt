@@ -1,0 +1,14 @@
+korea_market_analysis/
+├── data/
+│   └── companies.csv            # Sample dataset
+├── notebooks/
+│   └── exploration.ipynb        # Optional for EDA
+├── src/
+│   ├── fetch_data.py            # Pulls financial data
+│   ├── analyze.py               # Filters and evaluates growth
+│   ├── model.py                 # Basic prediction model
+│   └── recommend.py             # Recommendation logic
+├── main.py                      # Run everything
+├── requirements.txt
+└── README.md
+
